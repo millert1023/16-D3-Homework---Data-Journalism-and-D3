@@ -10,7 +10,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ## Files to use:
 
-HTML page:	StarterCode/index.html
+HTML page:	index.html
 <br>
-JavaScript:	StarterCode/assets/js/app.js 
+JavaScript:	assets/js/app.js 
 
